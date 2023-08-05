@@ -1,0 +1,42 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading
+{
+font-size: 40px;
+width: 100%;
+margin: 0px;
+}
+
+.bed-room
+{
+    font-size: 30px;
+    width: 500px;
+}
+
+.desk
+{
+    font-size: 30px;
+    width: 500px;
+}
+
+.tv-and-ac
+{
+    font-size: 30px;
+    width: 500px;
+}
+
+.bottles
+{
+    font-size: 30px;
+    width: 500px;
+}
+
+.fruit-basket
+{
+    font-size: 30px;
+    width: 500px;
+}
